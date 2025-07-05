@@ -1,70 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>About Me - Jayson</title>
-  <style>
-    body {
-      background: #0d1117;
-      color: #c9d1d9;
-      font-family: 'Fira Code', monospace;
-      padding: 2rem;
-      line-height: 1.6;
-    }
+<h1 align="center">Hi 👋, I'm Jayson</h1>
+<h3 align="center">Im the head programmer on FRC team 6110 and FTC team 19521.</h3>
 
-    h1 {
-      font-size: 2.5rem;
-      color: #58a6ff;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robotwaterfall&label=Profile%20views&color=0e75b6&style=flat" alt="robotwaterfall" /> </p>
 
-    .typewriter {
-      font-size: 1.2rem;
-      white-space: pre-line;
-      border-right: 2px solid #58a6ff;
-      width: 100%;
-      max-width: 60ch;
-      animation: blink 0.8s infinite;
-    }
+- 🧑🏻‍💻What I'm Currently Working On [PID_Testing](https://github.com/Robotwaterfall/PID_Testing)
 
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
-  </style>
-</head>
-<body>
-  <h1>👋 Hey, I'm Jayson</h1>
-  <pre class="typewriter" id="type"></pre>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-  <script>
-    const lines = [
-      "I'm a high school student with a love for robotics and coding.",
-      "🛠️ I build robots using Java, WPILib, and real hardware.",
-      "💡 I design circuits and 3D print parts for my projects.",
-      "🧠 Currently exploring: simulation, VS Code workflows, and CAD.",
-      "🔌 Future Master Electrician? You bet.",
-      "📂 Check out my repos and feel free to reach out!"
-    ];
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-    let i = 0, j = 0;
-    const speed = 30;
-    const el = document.getElementById("type");
-
-    function typeLine() {
-      if (i < lines.length) {
-        if (j <= lines[i].length) {
-          el.textContent = lines.slice(0, i).join('\n') + '\n' + lines[i].slice(0, j);
-          j++;
-          setTimeout(typeLine, speed);
-        } else {
-          i++;
-          j = 0;
-          setTimeout(typeLine, 500);
-        }
-      }
-    }
-
-    typeLine();
-  </script>
-</body>
-</html>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robotwaterfall&show_icons=true&locale=en" alt="robotwaterfall" /></p>
