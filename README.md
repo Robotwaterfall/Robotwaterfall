@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Lead programmer for FRC Team 6110 and FTC Team 19521, DocBotics.<br><br>🔧 What I do:<br>- write code for are teams robot. <br><br>🌱What I am learning:<br>- working on my autonomous coding skills.<br>- developing my coding skills.<br>
 
 
