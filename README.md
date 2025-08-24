@@ -4,9 +4,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Robotwaterfall&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotwaterfall&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Robotwaterfall&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Robotwaterfall&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
